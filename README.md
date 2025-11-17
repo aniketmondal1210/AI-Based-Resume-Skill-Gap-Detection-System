@@ -1,4 +1,4 @@
-# An AI-Based Resume Skill Gap Detection System
+# AI-Based Resume Skill Gap Detection System
 
 ## 📝 Description
 
